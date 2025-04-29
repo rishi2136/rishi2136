@@ -29,7 +29,7 @@ Exciting **open-source projects, startups, and innovative web applications**.
 **DevOps & Tools:** Git, GitHub, GitLab, AWS, Google APIs  
 
 ## 📫 How to reach me...  
-📧 rishiagarahari36@gmail.com | 🔗 [LinkedIn Profile] 
+📧 rishiagarahari36@gmail.com | [🔗 [LinkedIn Profile] ](https://www.linkedin.com/in/rishi-agrahari-0b1965274/)
 
 😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** I love exploring **new technologies** and solving **challenging problems** through code!  
