@@ -3,14 +3,6 @@
 
 I specialize in **building scalable, high-performance web applications** with a strong focus on **clean architecture and efficient development**. Passionate about **solving real-world problems**, I thrive in collaborative environments where innovation drives impact.  
 
-## 👀 I’m interested in...  
-- Full-Stack Development (React.js, Node.js, Express.js, MongoDB)  
-- Scalable & Efficient Software Solutions  
-- Cloud & DevOps (AWS, Google APIs, GitLab)  
-
-## 💞️ I’m looking to collaborate on...  
-Exciting **open-source projects, startups, and innovative web applications**.  
-
 ## 🛠️ Tech Stack  
 **Frontend:** React.js, Redux, Chakra UI, Tailwind CSS, Framer Motion  
 **Backend:** Node.js, Express.js, MongoDB, RESTful APIs  
